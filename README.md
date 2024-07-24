@@ -1,17 +1,3 @@
-<!--
-**rajdeepdev98/rajdeepdev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Rajdeep Deb</h1>
 <h3 align="center">A passionate Software Developer from India ,having 3+ years of experience in building Web applications,end to end.</h3>
 
@@ -21,7 +7,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://rajdeepdeb.vercel.app/](https://rajdeepdeb.vercel.app/)
 
-- 💬 Ask me about **Spring Boot,Reactjs,Nodejs**
+- 💬 Ask me about **Programming,Webapps,Java,C++,Spring Boot,Reactjs,Nodejs**
 
 - 📫 How to reach me **rajdeep.dev98@gmail.com**
 
