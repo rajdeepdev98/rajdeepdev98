@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamrajdeep98" target="blank"><img src="https://img.shields.io/twitter/follow/iamrajdeep98?logo=twitter&style=for-the-badge" alt="iamrajdeep98" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rajdeepdeb.vercel.app/](https://rajdeepdeb.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rajdeepdeb.online/](https://rajdeepdeb.online/)
 
 - 💬 Ask me about **Programming,Webapps,Java,C++,Spring Boot,Reactjs,Nodejs**
 
