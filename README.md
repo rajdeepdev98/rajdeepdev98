@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Software Engineer with 4+ years of experience building scalable, production-grade applications. My work primarily focuses on backend systems, distributed architectures, and cloud-native platforms.
+I am a Software Engineer with 5+ years of experience building scalable, production-grade applications. My work primarily focuses on backend systems, distributed architectures, and cloud-native platforms.
 
 I have hands-on experience across the full development lifecycle — from system design and API development to deployment and performance optimization.
 
